@@ -1102,7 +1102,7 @@ section {
 }
 
 #footer:hover{
-  background-color: #18d26e;
+  background-color: #34b7a7;
   font-family: 'Times New Roman', Times, serif;
   font-style: italic;
 }
@@ -1114,6 +1114,6 @@ section {
 }
 
 #footer .credits a {
-  color: #34b7a7;
+  color: #25bdabd1;
   font-family: Arial, Helvetica, sans-serif;
 }
